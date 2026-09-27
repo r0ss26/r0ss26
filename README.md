@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://rossbaker.me"><img src="https://img.shields.io/badge/rossbaker.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/rossandrewbaker/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/rossandrewbaker"><img src="https://img.shields.io/badge/@rossandrewbaker-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
 </p>
 
